@@ -2,6 +2,7 @@ hiphopfeaturings
 ================
 # Description
 Hip hop featurings is a project to display a network of collaborations between artists.
+Largely based on Gephi's sigma.js exporter.
 
 # Raw Data stats
 It is based on spotify's api data.
