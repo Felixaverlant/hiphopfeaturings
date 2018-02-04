@@ -24,3 +24,15 @@ The displayed graph has:
 
 
 NB: It was impossible to display all artists and featurings on a web interface.
+
+# Web interface
+
+You can choose a cluster to see all the edges of the cluster or select an artist to see all his edges.
+
+
+# Screenshots
+![E40](screenshot-e40.png?raw=true "E40")
+
+![Gucci Mane](screenshot-gucci-mane.png?raw=true "Gucci Mane")
+
+![Modularity](screenshot-modularity.png?raw=true "Modularity")  
