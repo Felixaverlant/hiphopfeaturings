@@ -17,13 +17,6 @@ Node sizes and Layout is based on Page Rank and colors on Gephi's modularity clu
 
 Based on that I extracted the most meaningful links and artists.
 
-# Web viz data stats
-The displayed graph has:
-- 13721 artists
-- 37628 featurings
-
-
-NB: It was impossible to display all artists and featurings on a web interface.
 
 # Web interface
 
