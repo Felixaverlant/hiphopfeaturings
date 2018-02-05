@@ -112,9 +112,9 @@ canvas#sigma_bg_1 {
 }
 
 #attributepane .close em {
-background-image: url('../images/sprite.png');
+background-image: url('../images/close.png');
 background-repeat: no-repeat;
-background-position: -11px -13px;
+/*background-position: -11px -13px;*/
 display: block;
 width: 24px;
 height: 16px;
@@ -293,9 +293,9 @@ user-select: none;
 #attributeselect .select {
 	border: 1px solid #999;
 	padding: 5px 7px 4px 7px;
-	color: #fff;
+	color: black;
 	cursor: pointer;
-	background-color: #999;
+	background-color: white;
 	background-image: url('../images/sprite.png');
 	background-repeat: no-repeat;
 	background-position: 200px -144px;
@@ -314,13 +314,13 @@ background-position: 200px -8px;
 	width: 226px;
 	overflow-y: scroll;
 	overflow-x: hidden;
-	background-color: #999;
+	background-color: white;
 	/*position: relative;
 		left: 240px;
-		bottom: 164px;*/
+		bottom: 164px;
 	position:absolute;
 	margin-left: 240px;
-	margin-top:-164px;
+	margin-top:-164px;*/
 	color: white;
 }
 
@@ -328,7 +328,7 @@ background-position: 200px -8px;
 display:block;
 padding: 2px;
 text-decoration: none;
-color: #fff;
+color: black;
 }
 
 #attributeselect .list a:hover {
@@ -357,16 +357,9 @@ background-repeat: no-repeat;
 background-image: url('../images/sprite.png');
 }
 
-#legend dl {
-}
 
 #mainpanel h2 {
 	padding-bottom:10px;
-}
-
-#legend dd {
-margin-bottom: 8px;
-color: #000;
 }
 
 
@@ -384,9 +377,6 @@ background-image:url('../images/rainbow.png');
 
 }
 
-#legend .note {
-margin-bottom: 8px;
-}
 
 #mainpanel .regions {
 background-position: -171px -13px;
